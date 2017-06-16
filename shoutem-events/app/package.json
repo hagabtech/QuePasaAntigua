@@ -1,0 +1,9 @@
+{
+  "name": "gabalconi.events",
+  "version": "0.9.13",
+  "private": true,
+  "main": "index.js",
+  "peerDependencies": {
+    "@shoutem/core": "*"
+  }
+}
